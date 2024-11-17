@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0860-design-circular-queue) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0860-design-circular-queue) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
@@ -27,4 +29,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Binary Search
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
