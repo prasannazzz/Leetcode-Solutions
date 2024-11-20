@@ -15,16 +15,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
