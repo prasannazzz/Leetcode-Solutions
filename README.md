@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0860-design-circular-queue](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
