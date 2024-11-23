@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0507-perfect-number) |
 ## Hash Table
 |  |
