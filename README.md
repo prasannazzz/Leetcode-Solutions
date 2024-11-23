@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0292-nim-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
