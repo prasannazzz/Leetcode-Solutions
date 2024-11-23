@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1086-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,14 +111,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
