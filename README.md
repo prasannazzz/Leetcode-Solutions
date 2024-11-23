@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0507-perfect-number](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0507-perfect-number) |
 ## Hash Table
 |  |
 | ------- |
