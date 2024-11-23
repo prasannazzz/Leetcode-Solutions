@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0860-design-circular-queue](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1755-defuse-the-bomb](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Linked List
