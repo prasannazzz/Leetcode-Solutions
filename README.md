@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0830-largest-triangle-area](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0860-design-circular-queue](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [0830-largest-triangle-area](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1086-divisor-game) |
 ## Hash Table
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
