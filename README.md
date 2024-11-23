@@ -87,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
+## String
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/prasannazzz/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
